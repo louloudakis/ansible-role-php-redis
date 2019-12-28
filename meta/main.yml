@@ -1,6 +1,5 @@
 ---
-dependencies:
-  - geerlingguy.php
+dependencies: []
 
 galaxy_info:
   # See: https://github.com/ansible/galaxy/issues/2393
